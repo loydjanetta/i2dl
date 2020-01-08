@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+datasets/**
+**/models
+**/*.zip
+**/.ipynb_checkpoints
